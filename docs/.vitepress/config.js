@@ -10,6 +10,7 @@ const logSidebar = [
 
 module.exports = {
     title: "Minu dokuveeb",
+    base: "/123/",
     themeConfig: {
         nav: [
             { text: "Esileht", link: "/" },

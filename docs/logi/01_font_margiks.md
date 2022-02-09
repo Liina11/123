@@ -1,3 +1,3 @@
-# Tunniteema - fonfi oma käe järgi muutmine
-Kirjutasin oma nime erinevate fontidega.
+# Tunniteema - fondi oma käe järgi muutmine
+Kirjutasin oma nime illustraatoris erinevate fontidega.
 ![Font minu käe järgi](./images/pilt1.png)
